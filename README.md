@@ -1,7 +1,3 @@
-Creating a comprehensive `README.md` for your portfolio project on GitHub will help showcase your work effectively. Here's a draft based on the analysis of your HTML, CSS, and JavaScript files:
-
----
-
 # Portfolio Website
 
 This repository contains the source code for my personal portfolio website, designed to showcase my skills and projects, particularly in web development and machine learning. The website is built with a responsive design, ensuring compatibility across various devices and screen sizes.
